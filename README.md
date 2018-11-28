@@ -1,0 +1,2 @@
+# sample
+Just another repository
